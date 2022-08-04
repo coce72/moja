@@ -69,6 +69,8 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
 #EXTINF:-1,MTV90s
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
+#EXTINF:-1,Relax 0
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1,Relax 1
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1,Relax 2
