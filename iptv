@@ -35,6 +35,8 @@ http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1,TVCG2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1,TVCGSAT
+https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/chunklist.m3u8
 #EXTINF:-1 ,Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus
