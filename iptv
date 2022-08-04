@@ -1,0 +1,211 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT1.png", HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT2.png", HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT3.png", HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 tvg-id="HRV4" tvg-name="HRT 4" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT4.png", HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 tvg-id="RTLTELEVIZIJA" tvg-name="RTL" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTL.png", RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl 2
+http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl Living
+http://webtvstream.bhtelecom.ba/rtl_living.m3u8
+#EXTINF:-1,Bn
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="Rtl" tvg-name="Kockica" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtl-kockica-logo.png",Rtl kockica
+http://webtvstream.bhtelecom.ba/rtl_kockica.m3u8
+#EXTINF:-0 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png",RTS1
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts1
+#EXTINF:-1 tvg-id="RTS 2" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS2_logo.png",RTS2
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts2
+#EXTINF:-1 tvg-id="RTS 3" tvg-name="RTS 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_3_logo.png",RTS3 
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts3
+#EXTINF:-1 tvg-id="PRVA" tvg-name="PRVA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/prva-srpska-logo.png",Prva
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=prva
+#EXTINF: -1 tvg-id="B92" tvg-name="B92" tvg-logo="http://b92s.net/o_nama/B92_logo.jpg",B 92 
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=b92
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B RS" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/studiobexyu.png",Studio B Srbija Tv 
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink RS" tvg-logo="https://www.logolynx.com/images/logolynx/6c/6ce033a5b4e98cfde9a16746a1266fc4.jpeg",Pink 1 
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
+#EXTINF:-1,TVCG1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1,TVCG2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 ,Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus
+http://5.254.16.186/K1/mono.m3u8
+#EXTINF:-1,RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1,RTRS PLUS
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1,Bn Bosna Tv
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B RS" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/studiobexyu.png",Studio B Srbija Tv 
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1 ,N1SRB
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 ,N1B&H
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 ,N1HRV
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,Xplore
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xite
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,Vevo pop europe
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1,Vevo pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:-1,Vevo Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1,MTV80s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
+#EXTINF:-1,MTV90s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
+#EXTINF:-1,Relax 1
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1,Relax 2
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1,Relax 3
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1,Relax 4
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1,Relax 5
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1,Relax 6
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1,MRT 1
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1 ,Sobraniski
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 ,Sitel
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1,Alfa
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1 ,Telma
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1,Alsat M
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 ,MTM
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1, Muzzik
+http://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
+#EXTINF:-1, Muzzik Rock&Roll
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
+#EXTINF:-1, Muzzik Cafe&club
+http://muzzik-live.morescreens.com/mts-3/chunklist.m3u8
+#EXTINF:-1, Muzzik World Wide
+http://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
+#EXTINF:-1, Muzzik Jeka
+http://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
+#EXTINF:-1, Muzzik Mediteraneo
+http://muzzik-live.morescreens.com/mts-a5/chunklist.m3u8
+#EXTINF:-1, Muzzik Hip Hop
+http://muzzik-live.morescreens.com/mts-a4/chunklist.m3u8
+#EXTINF:-1, OKK
+http://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
+ 
+#EXTINF:-1,Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF: -1 tvg-name="KRONEHIT TV HD" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kronehit_tv_hd.png", KRONEHIT TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF: -1 tvg-name="M20" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/m20.jpg", M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF: -1 tvg-name="One By 2 HD" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/one_by_2_hd.jpg", One By 2 HD
+http://rtmp.one.by:2300
+ 
+#EXTINF: -1 tvg-name="Narodni radio" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/narodni-radio.png" group-title="Radio", Narodni radio
+http://live.narodni.hr:8059/;
+#EXTINF: -1 tvg-name="Radio Brač" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Bra--.png" group-title="Radio", Radio Brač
+http://s8.iqstreaming.com:8066/stream
+#EXTINF: -1 tvg-name="Radio Dee Jay" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Dee-Jay.png" group-title="Radio", Radio Dee Jay
+http://82.94.204.96:80
+#EXTINF: -1 tvg-name="Radio 057" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-057.jpg" group-title="Radio", Radio 057
+http://streaming.zadar.net:8000/radio057
+#EXTINF: -1 tvg-name="Radio Centar" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Centar.png" group-title="Radio", Radio Centar
+http://radiocentar.hr:8282/mp3
+#EXTINF: -1 tvg-name="Radio Martin" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Martin.jpg" group-title="Radio", Radio Martin
+http://genf196.server4you.de:8585/;
+#EXTINF: -1 tvg-name="Antena Zagreb Rock" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Antena-Zagreb.jpg" group-title="Radio", Antena Zagreb Rock
+http://live.antenazagreb.hr:8019/;
+#EXTINF: -1 tvg-name="Antena Zagreb Dance" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Antena-Zagreb.jpg" group-title="Radio", Antena Zagreb Dance
+http://live.antenazagreb.hr:8015/;
+#EXTINF: -1 tvg-name="B92 Play Radio" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/B92-radio.jpg" group-title="Radio", B92 Play Radio
+http://stream.b92.net:7999/radio-b92.mp3
+#EXTINF: -1 tvg-name="Radio BumBum" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-BumBum.png" group-title="Radio", Radio BumBum
+http://185.22.144.158:8000/;
+#EXTINF: -1 tvg-name="Naxi House Radio" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Naxi-House-Radio.png" group-title="Radio", Naxi House Radio
+http://naxidigital-house128.streaming.rs:8000/
+#EXTINF: -1 tvg-name="Radio Nostalgija" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-nostalgija.jpg" group-title="Radio", Radio Nostalgija
+http://nostalgie128.streaming.rs:9250/
+#EXTINF: -1 tvg-name="Radio Pingvin" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Radio-Pingvin.png" group-title="Radio", Radio Pingvin
+http://uzivo4.radiopingvin.com:8187/domaci2
+#EXTINF: -1 tvg-name="51 Radio TV" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/51_radio_tv.jpg" group-title="Italija", 51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+ 
+#EXTINF: -1 tvg-name="Canale 7" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/canale_7.jpg" group-title="Italija", Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF: -1 tvg-name="Canale 10" group-title="Italija", Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF: -1 tvg-name="Carina TV" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/carina_tv.png" group-title="Italija", Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-name="m20 TV" group-title="Italija", m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+ 
+ 
+#EXTINF: -1 tvg-name="Radio Italia TV" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/radio_italia_tv.png" group-title="Italija", Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+ 
+ 
+ 
+ 
+#EXTINF: -1 tvg-name="SuperTV" group-title="Italija", SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+ 
+ 
+ 
+#EXTINF: -1 tvg-name="TV2000" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tv2000.png" group-title="Italija", TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF: -1 tvg-name="TVRS" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tvrs.png" group-title="Italija", TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF: -1 tvg-name="Video Brescia" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/video_brescia.jpg" group-title="Italija", Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1,Mdf1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+ 
+#EXTINF:-1,Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1,Campustv
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Music Box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+ 
+#EXTINF:-1,Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+ 
+#EXTINF:-1 ,RETRÔ TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w663499063.m3u8?fix
+ 
+ 
+ 
+ 
+ 
+ 
+ 
