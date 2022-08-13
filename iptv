@@ -35,10 +35,12 @@ http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=b92
 http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink RS" tvg-logo="https://www.logolynx.com/images/logolynx/6c/6ce033a5b4e98cfde9a16746a1266fc4.jpeg",Pink 1 
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
-#EXTINF:-1,TVCG1
+#EXTINF:-1,tvg-id="TVCG1" tvg-name="TVCG1" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/rtcg_sat_%28l2%29.png",TVCG1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1,TVCG2
+#EXTINF:-1,tvg-id="TVCG2" tvg-name="TVCG2" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/rtcg_sat_%28l2%29.png"TVCG2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 ,tvg-id="TVCGSAT" tvg-name="TVCGSAT" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/rtcg_sat_%28l2%29.png"TVCGSAT
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 ,Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus
